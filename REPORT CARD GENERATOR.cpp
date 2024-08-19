@@ -68,6 +68,8 @@ int main() {
   cout << setw(10) << left << sub2 << setw(5) << msub2 << endl;
   cout << setw(10) << left << sub3 << setw(5) << msub3 << endl;
   cout << setw(10) << left << sub4 << setw(5) << msub4 << endl;
+  cout << setw(10) << left << sub5 << setw(5) << msub5 << endl;
+
 
   
 
